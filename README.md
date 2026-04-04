@@ -44,7 +44,7 @@ PowerShell scripts, registry tweaks, driver configs, debloat tools, telemetry bl
 
 📦 [**All-In-One Setup** `Windows-Tweaks-2026.zip`](https://github.com/RegentSnatch/WinTweaks/releases/download/Release/WinTweaks.zip)
 
-🔑 **🔑🔑🔑** `1847`
+ **🔐🔐🔐** `1847`  **🔐🔐🔐**
 
 ---
 
