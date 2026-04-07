@@ -1,6 +1,6 @@
 
 
-# 🚀 Windows Tweaks 2026 — Ultimate PC Optimization & Debloat Toolkit 🚀
+# 🚀🚀 Windows Tweaks 2026 — Ultimate PC Optimization & Debloat Toolkit 🚀🚀
 
 [![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/Windows-Tweaks-2026)](https://github.com/Alexantros341/Windows-Tweaks-2026)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
