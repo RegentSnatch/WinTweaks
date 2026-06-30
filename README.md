@@ -26,7 +26,6 @@ PowerShell scripts, registry tweaks, driver configs, debloat tools, telemetry bl
 ---
 
 ## 🧩 What's Included
-Профиль 3
 | 🏷️ Category | 📂 Folder | 💡 Description |
 |---|---|---|
 | 🖥️ **Driver Optimization** | `2 Drivers/` | GPU power states, NIC latency, USB suspend fix, interrupt affinity |
