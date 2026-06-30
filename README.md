@@ -2,7 +2,7 @@
 
 # 🚀 Windows Tweaks 2026 — Ultimate PC Optimization & Debloat Toolkit 🚀
 
-[![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/Windows-Tweaks-2026)](https://github.com/Alexantros341/Windows-Tweaks-2026)
+[![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/Windows-Tweaks-2026)](https://github.com/RegentSnatch/WinTweaks)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?logo=windows)](https://www.microsoft.com/windows)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-5391FE?logo=powershell&logoColor=white)](https://github.com/PowerShell/PowerShell)
